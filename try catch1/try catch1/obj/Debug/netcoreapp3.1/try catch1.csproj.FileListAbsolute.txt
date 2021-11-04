@@ -1,0 +1,16 @@
+C:\Users\SAPPHİRE\Desktop\Yeni klasör\try catch1\try catch1\bin\Debug\netcoreapp3.1\try catch1.exe
+C:\Users\SAPPHİRE\Desktop\Yeni klasör\try catch1\try catch1\bin\Debug\netcoreapp3.1\try catch1.deps.json
+C:\Users\SAPPHİRE\Desktop\Yeni klasör\try catch1\try catch1\bin\Debug\netcoreapp3.1\try catch1.runtimeconfig.json
+C:\Users\SAPPHİRE\Desktop\Yeni klasör\try catch1\try catch1\bin\Debug\netcoreapp3.1\try catch1.runtimeconfig.dev.json
+C:\Users\SAPPHİRE\Desktop\Yeni klasör\try catch1\try catch1\bin\Debug\netcoreapp3.1\try catch1.dll
+C:\Users\SAPPHİRE\Desktop\Yeni klasör\try catch1\try catch1\bin\Debug\netcoreapp3.1\try catch1.pdb
+C:\Users\SAPPHİRE\Desktop\Yeni klasör\try catch1\try catch1\obj\Debug\netcoreapp3.1\try catch1.csproj.AssemblyReference.cache
+C:\Users\SAPPHİRE\Desktop\Yeni klasör\try catch1\try catch1\obj\Debug\netcoreapp3.1\try_catch1.Form1.resources
+C:\Users\SAPPHİRE\Desktop\Yeni klasör\try catch1\try catch1\obj\Debug\netcoreapp3.1\try catch1.csproj.GenerateResource.cache
+C:\Users\SAPPHİRE\Desktop\Yeni klasör\try catch1\try catch1\obj\Debug\netcoreapp3.1\try catch1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAPPHİRE\Desktop\Yeni klasör\try catch1\try catch1\obj\Debug\netcoreapp3.1\try catch1.AssemblyInfoInputs.cache
+C:\Users\SAPPHİRE\Desktop\Yeni klasör\try catch1\try catch1\obj\Debug\netcoreapp3.1\try catch1.AssemblyInfo.cs
+C:\Users\SAPPHİRE\Desktop\Yeni klasör\try catch1\try catch1\obj\Debug\netcoreapp3.1\try catch1.csproj.CoreCompileInputs.cache
+C:\Users\SAPPHİRE\Desktop\Yeni klasör\try catch1\try catch1\obj\Debug\netcoreapp3.1\try catch1.dll
+C:\Users\SAPPHİRE\Desktop\Yeni klasör\try catch1\try catch1\obj\Debug\netcoreapp3.1\try catch1.pdb
+C:\Users\SAPPHİRE\Desktop\Yeni klasör\try catch1\try catch1\obj\Debug\netcoreapp3.1\try catch1.genruntimeconfig.cache
